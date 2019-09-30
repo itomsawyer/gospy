@@ -9,7 +9,7 @@ import (
 	"sync"
 
 	"github.com/golang/glog"
-	gbin "gospy/pkg/binary"
+	gbin "github.com/itomsawyer/gospy/pkg/binary"
 )
 
 // PSummary holds process summary info

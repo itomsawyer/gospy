@@ -6,7 +6,7 @@ import (
 	"strings"
 	"syscall"
 
-	gbin "gospy/pkg/binary"
+	gbin "github.com/itomsawyer/gospy/pkg/binary"
 )
 
 // Thread wrap operations on a system thread

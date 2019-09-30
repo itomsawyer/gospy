@@ -8,8 +8,8 @@ import (
 	"github.com/golang/glog"
 	"github.com/urfave/cli"
 
-	"gospy/pkg/proc"
-	"gospy/pkg/term"
+	"github.com/itomsawyer/gospy/pkg/proc"
+	"github.com/itomsawyer/gospy/pkg/term"
 )
 
 func validPC(pc string) error {

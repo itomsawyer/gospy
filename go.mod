@@ -1,4 +1,4 @@
-module gospy
+module github.com/itomsawyer/gospy
 
 go 1.12
 

@@ -2,7 +2,8 @@ package proc
 
 import (
 	"fmt"
-	gbin "gospy/pkg/binary"
+
+	gbin "github.com/itomsawyer/gospy/pkg/binary"
 )
 
 type pstatus uint32
